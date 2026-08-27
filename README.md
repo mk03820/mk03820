@@ -1,8 +1,6 @@
 ## Matt Keane
 
-Insurance and data executive. I lead a 400-person technology organization at a
-Fortune 500 carrier, and I teach applied data analysis at Southern New Hampshire
-University.
+Insurance and data executive. I'm accountable for P&L across a $100M portfolio, and I teach applied data analysis at Southern New Hampshire University.
 
 ### The Alignment Tax
 

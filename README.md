@@ -1,16 +1,48 @@
-## Hi there 👋
+## Matt Keane
 
-<!--
-**mk03820/mk03820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Insurance and data executive. I lead a 400-person technology organization at a
+Fortune 500 carrier, and I teach applied data analysis at Southern New Hampshire
+University.
 
-Here are some ideas to get you started:
+### The Alignment Tax
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A book about what enterprise AI actually costs after the pilot ships —
+**Fast Company Press, April 2027**.
+
+**[last-paradigm-platform](https://github.com/mk03820/last-paradigm-platform)** is
+the companion platform being built alongside it. [ONE LINE: what the platform does
+for a reader — assessment, diagnostic, benchmark, community?]
+
+Book and writing: **[alignment-tax.com](https://www.alignment-tax.com/)**
+
+### Why an executive has a GitHub account
+
+I'm accountable for nine-figure technology decisions. The most reliable way I've
+found to evaluate a category honestly is to build something in it — small,
+disposable, real enough to hit the constraints a vendor demo never shows you.
+
+The repos below are validation exercises, not maintained products. Each one
+exists because I needed to answer a question before signing something, or because
+I wanted to understand a pattern before recommending it to a board.
+
+**[cobol-modernizer](https://github.com/mk03820/cobol-modernizer)** — LLM-assisted
+translation of legacy COBOL. Built to find where the automation ceiling actually
+sits, before evaluating vendor pitches on the same problem. Legacy modernization
+is the defining constraint in insurance technology; I wanted a first-hand read on
+what this generation of models can and can't do with it.
+
+**[careerpath](https://github.com/mk03820/careerpath)** — Skills and career data
+mapped to learning journeys and just-in-time experiences. The prototype behind a
+question I had to answer for real: what does a career architecture look like when
+the underlying skills taxonomy is data, not a spreadsheet.
+
+**[GManager](https://github.com/mk03820/GManager)** and
+**[MailUnsubscribr](https://github.com/mk03820/MailUnsubscribr)** — Agentic
+workflow patterns tested against a messy, rate-limited, real-world API across
+multiple accounts. Useful mostly for where they broke.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/mattkeane/) ·
+[alignment-tax.com](https://www.alignment-tax.com/) ·
+[The Alignment Tax newsletter](https://newsletter.alignment-tax.com/)

@@ -10,8 +10,7 @@ A book about what enterprise AI actually costs after the pilot ships —
 **Fast Company Press, April 2027**.
 
 **[last-paradigm-platform](https://github.com/mk03820/last-paradigm-platform)** is
-the companion platform being built alongside it. [ONE LINE: what the platform does
-for a reader — assessment, diagnostic, benchmark, community?]
+the companion platform being built alongside it. 
 
 Book and writing: **[alignment-tax.com](https://www.alignment-tax.com/)**
 
